@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Arial;
+    color: #583b31;
+}
+
+h2{
+    font-family: Arial;
+    color: #6d4c41;
+}
+
+.Container{
+    font-family: 'Gill Sans';
+    background-color: #d7ccc8;
+    width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    margin-bottom: 30px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
